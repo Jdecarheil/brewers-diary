@@ -1,0 +1,363 @@
+{
+	"2 row": [
+		{
+			"twoRow": [
+				{
+					"avgPPG": 31,
+					"maxPPG": 37,
+					"brands": [{}]
+				}
+			],
+			"sixRow": [
+				{
+					"avgPPG": 30,
+					"maxPPG": 36,
+					"brands": [{}]
+				}
+			],
+			"biscuit": [
+				{
+					"avgPPG": 30,
+					"maxPPG": 36,
+					"brands": [{}]
+				}
+			],
+			"victory": [
+				{
+					"avgPPG": 30,
+					"maxPPG": 35,
+					"brands": [{}]
+				}
+			],
+			"vienna": [
+				{
+					"avgPPG": 30,
+					"maxPPG": 35,
+					"brands": [{}]
+				}
+			],
+			"munich": [
+				{
+					"avgPPG": 30,
+					"maxPPG": 35,
+					"brands": [{}]
+				}
+			],
+			"brown": [
+				{
+					"avgPPG": 28,
+					"maxPPG": 32,
+					"brands": [{}]
+				}
+			],
+			"dextrin": [
+				{
+					"avgPPG": 28,
+					"maxPPG": 30,
+					"brands": [{}]
+				}
+			],
+			"crystalLight": [
+				{
+					"avgPPG": 30,
+					"maxPPG": 35,
+					"brands": [{}]
+				}
+			],
+			"crystalPale": [
+				{
+					"avgPPG": 29,
+					"maxPPG": 34,
+					"brands": [{}]
+				}
+			],
+			"mediumCrystal": [
+				{
+					"avgPPG": 29,
+					"maxPPG": 34,
+					"brands": [{}]
+				}
+			],
+			"melanoidinMalt": [
+				{
+					"avgPPG": 29,
+					"maxPPG": 35,
+					"brands": [{}]
+				}
+			],
+			"crystalDark": [
+				{
+					"avgPPG": 28,
+					"maxPPG": 33,
+					"brands": [{}]
+				}
+			],
+			"specialB": [
+				{
+					"avgPPG": 27,
+					"maxPPG": 1,
+					"brands": [{}]
+				}
+			],
+			"chocolateMalt": [
+				{
+					"avgPPG": 24,
+					"maxPPG": 28,
+					"brands": [{}]
+				}
+			],
+			"roastMalt": [
+				{
+					"avgPPG": 22,
+					"maxPPG": 25,
+					"brands": [{}]
+				}
+			],
+			"blackPatent": [
+				{
+					"avgPPG": 22,
+					"maxPPG": 25,
+					"brands": [{}]
+				}
+			],
+			"ryeFlaked": [
+				{
+					"avgPPG": 27,
+					"maxPPG": 36,
+					"brands": [{}]
+				}
+			],
+			"ryeMalt": [
+				{
+					"avgPPG": 30,
+					"maxPPG": 36,
+					"brands": [{}]
+				}
+			],
+			"crackedCorn": [
+				{
+					"avgPPG": 30,
+					"maxPPG": 35,
+					"brands": [{}]
+				}
+			],
+			"flakedCorn": [
+				{
+					"avgPPG": 30,
+					"maxPPG": 39,
+					"brands": [{}]
+				}
+			],
+			"honey": [
+				{
+					"avgPPG": 35,
+					"maxPPG": 35,
+					"brands": [{}]
+				}
+			],
+			"cornSyrup": [
+				{
+					"avgPPG": 42,
+					"maxPPG": 42,
+					"brands": [{}]
+				}
+			],
+			"invertSugar": [
+				{
+					"avgPPG": 30,
+					"maxPPG": 38,
+					"brands": [{}]
+				}
+			],
+			"oatsFlaked": [
+				{
+					"avgPPG": 28,
+					"maxPPG": 32,
+					"brands": [{}]
+				}
+			],
+			"barleyFlaked": [
+				{
+					"avgPPG": 28,
+					"maxPPG": 32,
+					"brands": [{}]
+				}
+			],
+			"rawBarley": [
+				{
+					"avgPPG": 28,
+					"maxPPG": 28,
+					"brands": [{}]
+				}
+			],
+			"wheat": [
+				{
+					"avgPPG": 31,
+					"maxPPG": 37,
+					"brands": [{}]
+				}
+			],
+			"wheatFlaked": [
+				{
+					"avgPPG": 30,
+					"maxPPG": 36,
+					"brands": [{}]
+				}
+			],
+			"wheatTorrified": [
+				{
+					"avgPPG": 30,
+					"maxPPG": 36,
+					"brands": [{}]
+				}
+			],
+			"wheatWhite": [
+				{
+					"avgPPG": 30,
+					"maxPPG": 40,
+					"brands": [{}]
+				}
+			],
+			"wheatRoasted": [
+				{
+					"avgPPG": 30,
+					"maxPPG": 25,
+					"brands": [{}]
+				}
+			],
+			"riceFlaked": [
+				{
+					"avgPPG": 32,
+					"maxPPG": 40,
+					"brands": [{}]
+				}
+			],
+			"sugar": [
+				{
+					"avgPPG": 46,
+					"maxPPG": 46,
+					"brands": [{}]
+				}
+			],
+			"dextrine": [
+				{
+					"avgPPG": 40,
+					"maxPPG": 40,
+					"brands": [{}]
+				}
+			],
+			"acidulatedMalt": [
+				{
+					"avgPPG": 25,
+					"maxPPG": 27,
+					"brands": [{}]
+				}
+			],
+			"caraMunich": [
+				{
+					"avgPPG": 30,
+					"maxPPG": 33,
+					"brands": [{}]
+				}
+			],
+			"peatedMalt": [
+				{
+					"avgPPG": 30,
+					"maxPPG": 38,
+					"brands": [{}]
+				}
+			],
+			"aromaticMalt": [
+				{
+					"avgPPG": 30,
+					"maxPPG": 36,
+					"brands": [{}]
+				}
+			],
+			"specialRoast": [
+				{
+					"avgPPG": 30,
+					"maxPPG": 33,
+					"brands": [{}]
+				}
+			],
+			"smokedMalt": [
+				{
+					"avgPPG": 30,
+					"maxPPG": 37,
+					"brands": [{}]
+				}
+			],
+			"caravienneMalt": [
+				{
+					"avgPPG": 30,
+					"maxPPG": 34,
+					"brands": [{}]
+				}
+			],
+			"cararedMalt": [
+				{
+					"avgPPG": 30,
+					"maxPPG": 35,
+					"brands": [{}]
+				}
+			],
+			"torrifiedBarley": [
+				{
+					"avgPPG": 30,
+					"maxPPG": 36,
+					"brands": [{}]
+				}
+			],
+			"blackMalt": [
+				{
+					"avgPPG": 30,
+					"maxPPG": 25,
+					"brands": [{}]
+				}
+			],
+			"blackBarley": [
+				{
+					"avgPPG": 30,
+					"maxPPG": 26,
+					"brands": [{}]
+				}
+			],
+			"brownMalt": [
+				{
+					"avgPPG": 30,
+					"maxPPG": 32,
+					"brands": [{}]
+				}
+			],
+			"peated": [
+				{
+					"avgPPG": 30,
+					"maxPPG": 38,
+					"brands": [{}]
+				}
+			],
+			"brownSugar": [
+				{
+					"avgPPG": 46,
+					"maxPPG": 46,
+					"brands": [{}]
+				}
+			],
+			"bruMalt": [
+				{
+					"avgPPG": 30,
+					"maxPPG": 33,
+					"brands": [{}]
+				}
+			],
+			"candiSyrup": [
+				{
+					"avgPPG": 30,
+					"maxPPG": 32,
+					"brands": [{}]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"language": "French",
+	"screens": {
+		"login": {},
+		"auth": {
+			"login": "Se Connecter",
+			"register": ""
+		},
+		"register": {},
+		"forgotPassword": {},
+		"sessions": {},
+		"getStarted": {
+			"headerTitle": "Get Started"
+		},
+		"recipeEditable": {},
+		"recipeOverview": {},
+		"recipeList": {},
+		"settings": {},
+		"tools": {},
+		"toolsList": {},
+		"stock": {}
+	}
+}

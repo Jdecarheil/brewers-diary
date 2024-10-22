@@ -1,0 +1,22 @@
+{
+	"language": "English",
+	"screens": {
+		"login": {},
+		"auth": {
+			"login": "Login"
+		},
+		"register": {},
+		"forgotPassword": {},
+		"sessions": {},
+		"getStarted": {
+			"headerTitle": "Get Started"
+		},
+		"recipeEditable": {},
+		"recipeOverview": {},
+		"recipeList": {},
+		"settings": {},
+		"tools": {},
+		"toolsList": {},
+		"stock": {}
+	}
+}

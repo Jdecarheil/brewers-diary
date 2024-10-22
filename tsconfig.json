@@ -1,3 +1,41 @@
 {
-  "extends": "@react-native/typescript-config/tsconfig.json"
+	"extends": "@react-native/typescript-config/tsconfig.json",
+	"compilerOptions": {
+		"baseUrl": ".",
+		"paths": {
+			"@root/*": ["."],
+			"@mocks/*": ["src/__mocks__"],
+			"@utils/*": ["src/utils/*"],
+			"@recipe-editable-components/*": [
+				"src/screens/recipe/recipe-editable/components/*"
+			],
+			"@recipe-editable-styles/*": [
+				"src/screens/recipe/recipe-editable/styles/*"
+			],
+			"@recipe-editable-types/*": [
+				"src/screens/recipe/recipe-editable/types/*"
+			],
+			"@global-types/*": ["src/global-types/*"],
+			"@styles/*": ["src/styles/*"],
+			"@constants/*": ["src/constants/*"],
+			"@config/*": ["src/config/*"],
+			"@routes/*": ["src/routes/*"],
+			"@api/*": ["src/api/*"],
+			"@screens/*": ["src/screens/*"],
+			"@login-screen/*": ["src/screens/auth/containers/login/*"],
+			"@registration-screen/*": [
+				"src/screens/auth/containers/registration/*"
+			],
+			"@fp-screen/*": ["src/screens/auth/containers/forgot-password/*"],
+			"@assets/*": ["src/assets/*"],
+			"@generic-components/*": ["src/components/generic/*"],
+			"@footer-components/*": ["src/components/footer/*"],
+			"@form-components/*": ["src/components/forms/*"],
+			"@header-components/*": ["src/components/headers/*"],
+			"@nav-components/*": ["src/components/nav/*"],
+			"@recipe-components/*": ["src/components/recipes/*"],
+			"@lib/*": ["src/lib/*"],
+			"@localization/*": ["src/lib/localization/*"]
+		}
+	}
 }
