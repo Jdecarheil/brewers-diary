@@ -10,7 +10,7 @@ import SplashScreen from '@screens/splash/splash-screen';
 import {ScaledSheet} from 'react-native-size-matters';
 import {useTranslation} from 'react-i18next';
 import {baseStyles} from '@styles/base';
-import {TouchableOpacity} from 'react-native';
+import './global.css';
 import {baseColors} from '@styles/constants';
 
 export type AuthContainerProps = StackScreenProps<
